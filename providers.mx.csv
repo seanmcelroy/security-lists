@@ -1,0 +1,141 @@
+aspmx.l.google.com.,Google,G Suite
+.googlemail.com.,Google,G Suite
+.mailgun.org.,Rackspace,Mailgun
+.mimecast.com.,Mimecast,Mimecast
+.protonmail.ch.,ProtonMail,ProtonMail
+.ppe-hosted.com.,Proofpoint,Proofpoint Essentials
+.pphosted.com.,Proofpoint,Proofpoint
+.ess.barracudanetworks.com.,Barracuda Networks,Barracuda Networks Essentials
+.outlook.com.,Microsoft,Office 365/Outlook.com
+.yandex.net.,Yandex,Yandex
+.zoho.com.,Zoho,Zoho
+.secureserver.net.,GoDaddy (secureserver.net),GoDaddy Email
+.messagingengine.com.,Fastmail,Fastmail
+.mbox.net.,BAE Systems (SilverSky),USA.NET
+.usa.net.,BAE Systems (SilverSky),USA.NET
+.postoffice.net.,BAE Systems (SilverSky),USA.NET
+.perimeterusa.com.,BAE Systems (SilverSky),Perimeter E-Security
+.velocity.net.,Velocity.Net ISP,ISP Hosted Email
+.spamh.com.,Zix,SpamStopsHere
+.iphmx.com.,Cisco,IronPort Hosted
+.mailcontrol.com.,Forcepoint,Forcepoint
+.messagelabs.com.,Symantec,Symantec Email Security
+.arsmtp.com.,Zix,AppRiver
+.emailsrvr.com.,Rackspace,Rackspace Cloud Office
+.rcimx.net.,EdgeWave,ePrism Email Security
+.redcondor.net.,EdgeWave,ePrism Email Security
+.pnshs.com.,Fidelity National Information Services,FNIS Hosted Email
+.fsiwebs.net.,Fidelity National Information Services,FNIS Hosted Email
+.messageprovider.com.,Fidelity National Information Services,FNIS Hosted Email
+.safesysmail.com.,SafeSysMail,SafeSysMail
+.gladtech.net.,Jack Henry ProfitStars,Gladiator Enterprise Information Security
+.rcimx.com.,GoSecure,GoSecure
+.gosecure.net.,GoSecure,GoSecure
+.serverdata.net.,Intermedia,Intermedia
+.hydra.sophos.com.,Sophos,Sophos Central
+.ctmail.com.,Sophos,Sophos UTM
+.spam-filter.com.,Spam-Filter.com,Spam-Filter.com
+.secureyourmail.com.,BankOnIT,SafeSend
+.secure-24.net.,Secure-24,Secure-24
+.mdtsaas.com.,Member Driven Technologies,MSP-Hosted Unknown
+.cnetokc.com.,CNet (Oklahoma City MSP),MSP-Hosted Unknown
+antispam.ciosolutions.com.,CIO Solutions,CIO Solutions
+.snwlhosted.com.,SonicWall,SonicWall Hosted Email Security
+.mxthunder.com.,SpamRaptor,SpamRaptor
+.mxthunder.net.,SpamRaptor,SpamRaptor
+.electric.net.,Vipre,Vipre Email Security
+.mailanyone.net.,Vipre,Vipre Email Security
+.networkboxusa.com.,Network Box USA,Network Box USA
+.compudyne.net.,Compudyne,Compudyne
+.mfncuso.org.,Managed Financial Networks (CUSO),MSP-Hosted Unknown
+.h-email.net.,Michigan State University H-Net,MSU H-Net Hosted Email
+.boxlake.com.,Box Lake Networks,Box Lake Networks
+.jackhenry.com.,Jack Henry,Jack Henry
+.netsolmail.net.,Network Solutions,Network Solutions
+.inboundmx.com.,Network Solutions,Network Solutions
+.teleguam.net.,Teleguam (ISP in Guam),ISP Hosted Email
+.ipengines.net.,SinglePoint Technologies,SinglePoint Technologies
+.infinitesolutionsllc.com.,Infinite Solutions,Infinite Solutions
+.infsolllc.com.,Infinite Solutions,Infinite Solutions
+.atcbroadband.com.,ATC Broadband,ATC Broadband
+.securence.com.,Securence,Securence
+.mailpure.com.,ServPure,ServPure
+.cocci.com.,Conneticut Online Computer Center,Conneticut Online Computer Center
+.mxlogic.net.,McAfee,MX Logic (deprecated)
+.mxlogicmx.net.,McAfee,MX Logic (deprecated)
+.diginsite.com.,NCR,Digital Insight
+.4w.com.,Information Analytics,Information Analytics
+.reflexion.net.,Sophos,Sophos Reflexion
+.spamhero.net.,iSparks,Spam Hero
+.spamhero.com.,iSparks,Spam Hero
+.tsys.com.,TSYS,TSYS
+.hes.trendmicro.com.,TrendMicro,TrendMicro Hosted Email Security
+.hes.trendmicro.eu.,TrendMicro,TrendMicro Hosted Email Security
+.sjc.mx.trendmicro.com.,TrendMicro,TrendMicro Hosted Email Security
+.emailsecurity.trendmicro.com.,TrendMicro,TrendMicro InterScan Messaging Security Virtual Appliance
+.zixsmbhosted.com.,Zix,Zix Hosted
+.zixworks.com.,Zix,Zix Hosted
+.mxsmtp.com.,Trustwave,Secure Email Gateway
+seg.trustwave.com.,Trustwave,Secure Email Gateway
+seg-outbound.trustwave.com.,Trustwave,Secure Email Gateway
+.fireeyecloud.com.,FireEye,Cloud Email Security
+.fortimail.com.,FortiNet,Secure Email Gateway
+.entrustedmail.net.,FiLink,Entrusted Email
+.ssi-net.net.,Systems Solutions Inc.,Systems Solutions Inc.
+vade-in1.mail.dreamhost.com.,Vade Secure,Vade Secure
+vade-in2.mail.dreamhost.com.,Vade Secure,Vade Secure
+.fnni.com.,First National of Nebraska (Bank Holding Company),Self-Hosted Unknown
+.mtaroutes.com.,SolarWinds,Mail Assure
+.spamexperts.com.,SolarWinds,Spam Experts
+.spamexperts.eu.,SolarWinds,Spam Experts
+.spamexperts.net.,SolarWinds,Spam Experts
+.hostedemail.com.,OpenSRS,OpenSRS
+.seg.att.com.,AT&T,Secure Email Gateway
+.everycloudtech.com.,EveryCloud,EveryCloud
+.nsoit.com.,NetSource One,NetSource One
+.redrockis.com.,Red Rock Information Security,Red Rock Information Security
+.cloudworks.com.,Ongoing Operations,Ongoing Operations
+.siteprotect.com.,Hostway,Hostway
+.everyone.net.,Everyone.net (a Proofpoint company from 1998),Everyone.net
+.mailprotector.net.,Mailprotector,Mailprotector
+.emailservice.io.,Mailprotector,Mailprotector
+.mailhop.org.,DuoCircle,DuoCircle
+.hostmanagement.net.,HostMySite.com,HostMySite.com
+.csiweb.net.,Computer Services Inc.,Computer Services Inc.
+.lightedge.com.,LightEdge Solutions,LightEdge Solutions
+.psmtp.com.,SnapBlox,SnapBlox
+psmtp.com.,SnapBlox,SnapBlox
+.smtproutes.com.,GFI Software,GFI Software
+.etrn.com.,ETRN.com,ETRN.com
+.open-techs.com.,Open Technology Solutions,Open Technology Solutions
+.cavionplus.com.,Finastra,Cavion Plus
+.secantnet.net.,Aunalytics
+.carrierzone.com.,carrierzone.com,carrierzone.com
+.vadesecure.com.,Vade Secure,Vade Secure
+.subscribermail.com.,Harland Clarke,Harland Clarke
+.mailroute.net.,MailRoute,MailRoute
+.cwpowerit.com.,CW Technology,CW Technology
+.daktel.com.,Dakota Central ISP,ISP Hosted Email
+.spamtitan.com.,SpamTitan,SpamTitan
+.infogressive.com.,Infogressive,Infogressive
+.itcusolutions.com.,International Technology Solutions,MSP-Hosted Unknown
+.neovera.net.,Neovera,Neovera
+.att.com.,AT&T,AT&T
+.cscdns.net.,Digital Brand Services,Digital Brand Services
+.hpcisp.com.,HPC Internet Services ISP,ISP Hosted Email
+.appsanyplace.com.,NexusTek,NexusTek
+.fuse.net.,Cincinnati Bell Telephone ISP,ISP Hosted Email
+.hostworks.com.,HostWorks,HostWorks
+.edocprocessing.com.,Business Data Inc. (BDI),Business Data Inc. (BDI)
+.1and1.com.,1&1 IONOS,1&1 IONOS
+.junkmailshark.com.,Advanced Network Management (New Mexico/US),Advanced Network Management
+.mandrillapp.com.,Mailchimp,Mandrill
+.citynet.net.,Citynet ISP (West Virginia/US),ISP Hosted Email
+.espsolution.net.,ESP Inc. (CUSO),MSP-Hosted Unknown
+.pantheoncomputers.com.,Pantheon Computers,Pantheon Computers
+.db.com.,Deutsche Bank,Self-Hosted Unknown
+.unitedsolutions.coop.,United Solutions (CUSO),MSP-Hosted Unknown
+.discoveryit.com.,Discovery IT,Discovery IT
+.exacttarget.com.,Salesforce,Salesforce
+.greendot.com.,Green Dot Bank (MSP),MSP-Hosted Unknown
+ironport1.radiant.net.,Radiant Networks (MSP),MSP-Hosted Unknown
